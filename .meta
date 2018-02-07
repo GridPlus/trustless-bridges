@@ -1,6 +1,6 @@
 {
   "projects": {
-    "trustless-bridge-client": "https://github.com/GridPlus/trustless-bridge-client",
-    "trustless-bridge-contracts": "https://github.com/GridPlus/trustless-bridge-contracts"
+    "trustless-bridge-contracts": "git@github.com:GridPlus/trustless-bridge-contracts.git",
+    "trustless-bridge-client": "git@github.com:GridPlus/trustless-bridge-client.git"
   }
 }
